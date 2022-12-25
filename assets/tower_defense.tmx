@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="tmw_desert" tilewidth="32" tileheight="32" tilecount="48" columns="8">
+  <image source="tmw_desert.png" width="256" height="192"/>
+ </tileset>
+ <layer id="1" name="map0" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJytk9EKgzAMRSv7AvFJhba6KWxu6v9/nQkYCCG1GvdwqOHCsfS23jk3AzXQGGkBD6z7inRAb+TJPNL3Aj4XmYQrMB/+qwAeLKd5FDN+R2VvXvhKoGJZbkaWhO97ow/N968+3oYehgMfvz+pPqKY+ZmHPRsV79k+uI8y65tAforP2kGqj6sdnHkfRx2ETE6z7IHOeHX5TqKSExsF/CMm
+  </data>
+ </layer>
+</map>
